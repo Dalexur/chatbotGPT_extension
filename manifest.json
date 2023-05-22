@@ -1,0 +1,13 @@
+{
+    "name": "Nombre_De_La_Extension",
+    "version": "1.0.0",
+    "description": "Descripcion_de_la_extension",
+    "manifest_version": 3,
+    "author": "Nombre_del_autor",
+    "action": {
+        "default_icon": "icon.png",
+        "default_popup": "index.html",
+        "default_title": "Titulo_por_defecto"
+    }
+
+}
